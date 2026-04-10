@@ -674,6 +674,7 @@ Every project README must contain:
 |------|---------|---------|
 | VS Code | Code editor | code.visualstudio.com |
 | Node.js (LTS) | Runtime | nodejs.org |
+| Python | Runtime | python.org |
 | PostgreSQL | Relational DB | postgresql.org |
 | Docker Desktop | Containerisation | docker.com |
 | Postman | API testing | postman.com |
